@@ -4,30 +4,17 @@ An interactive web application that visualizes NYC taxi fare data and provides f
 
 ## Features
 
-- 📊 Interactive visualizations of taxi fare data
-- 🌤️ Weather impact analysis on taxi fares
-- 🔮 Fare prediction model
-- 📈 Multiple data visualization charts
-- 🔍 Advanced filtering options
-- 💾 Data export functionality
+- Interactive visualizations of taxi fare data
+-  Weather impact analysis on taxi fares
+-  Fare prediction model
+-  Multiple data visualization charts
+-  Advanced filtering options
+-  Data export functionality
 
 ## Prerequisites
 
 - Python 3.8 or higher
 - pip (Python package installer)
-
-## Installation
-
-1. Clone this repository:
-```bash
-git clone <repository-url>
-cd RidePulse
-```
-
-2. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
 
 ## Data Files
 
@@ -68,11 +55,3 @@ RidePulse/
 ├── nyc/                # NYC-specific data
 └── README.md          # Project documentation
 ```
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
